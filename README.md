@@ -25,6 +25,6 @@ Every resource in this repository is free to use. Exceptions exist for media suc
 <br>
 <br>
 
-## Acknowledgements
+## Acknowledgements 
 
 - [SkriptLang](https://github.com/SkriptLang)
